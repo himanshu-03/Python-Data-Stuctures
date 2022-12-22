@@ -1,8 +1,4 @@
 """
-Name: Himanshu Agarwal
-    UID: 20-COMPA02-24
-    Batch: 1
-
 # Menu Driven Code for Circular Doubly Linked List
 """
 
